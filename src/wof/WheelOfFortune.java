@@ -568,9 +568,3 @@ public class WheelOfFortune {
 	}
 
 }
-
-
-
-
-
-
