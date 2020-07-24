@@ -1,4 +1,4 @@
-package final30;
+package wof;
 
 public class WOFContestant {
 
